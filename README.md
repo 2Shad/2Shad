@@ -19,7 +19,8 @@
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-black?style=flat&logo=Ansible&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-212121?style=flat&logo=Ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 ![QEMU](https://img.shields.io/badge/-QEMU-FF6600?style=flat&logo=QEMU&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/-Vagrant-1563FF?style=flat&logo=Vagrant&logoColor=white)
