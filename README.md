@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shadman-ahmed-728345217/)
 
-### Mathematics graduate from Greenwich University. Currently Training to become a DevOps Engineer.
+### Mathematics graduate from Greenwich University. Currently Training to become a DevOps Engineer with Sparta Global.
 
 ### **Technical Skills & Experience:**
 
